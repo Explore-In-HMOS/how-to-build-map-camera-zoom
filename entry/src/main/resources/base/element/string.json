@@ -1,0 +1,35 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "app_name",
+      "value": "Camera Zoom"
+    },
+
+    { "name": "landmark_istanbul",     "value": "Istanbul" },
+    { "name": "landmark_madrid",       "value": "Madrid" },
+    { "name": "landmark_berlin",       "value": "Berlin" },
+
+    { "name": "btn_fit_all",           "value": "Fit All" },
+
+    { "name": "btn_zoom_by",           "value": "×2" },
+    { "name": "btn_zoom_to",           "value": "Z14" },
+
+    { "name": "arrow_up",              "value": "↑" },
+    { "name": "arrow_down",            "value": "↓" },
+    { "name": "arrow_left",            "value": "←" },
+    { "name": "arrow_right",           "value": "→" }
+
+  ]
+}

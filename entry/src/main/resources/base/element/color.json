@@ -1,0 +1,20 @@
+{
+  "color": [
+
+    { "name": "chip_bg_active",      "value": "#CC1976D2" },
+    { "name": "chip_bg_inactive",    "value": "#99000000" },
+    { "name": "chip_text_active",    "value": "#FFFFFF" },
+    { "name": "chip_text_inactive",  "value": "#E0E0E0" },
+
+
+    { "name": "panel_bg",            "value": "#CC212121" },
+
+
+    { "name": "btn_bg",              "value": "#FF1565C0" },
+    { "name": "btn_text",            "value": "#FFFFFF" },
+
+
+    { "name": "toast_bg",            "value": "#DD1A1A1A" },
+    { "name": "toast_text",          "value": "#FFFFFF" }
+  ]
+}
