@@ -1,4 +1,4 @@
-> **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS-Wearable Index](https://github.com/Explore-In-HMOS-Wearable/hmos-index).
+> **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS Index](https://github.com/Explore-In-HMOS/hmos-index).
 
 # How to Build Map Camera Zoom
 This codelab demonstrates how to control the **map camera** on a HarmonyOS wearable device using MapKit. The watch app renders a full-screen map centred on Europe and exposes every major camera control API through a minimal overlay UI and the Digital Crown  letting developers see exactly how each method affects the camera in real time.
